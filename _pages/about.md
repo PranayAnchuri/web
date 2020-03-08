@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/pranay_img.jpg?raw=true" alt="Photo" style="height: 300px;"/> 
+  <img src="https://pranayanchuri.github.io/files/pranay_img.jpg?raw=true" alt="Photo" style="height: 300px;"/> 
 </p>
 
 * My research interests lie in graph mining
