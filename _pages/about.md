@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://pranayanchuri.github.io/files/pranay_img.jpg?raw=true" alt="Photo" style="height: 300px;"/> 
+  <img src="https://pranayanchuri.github.io/files/pranay_img.jpg?raw=true" alt="Photo" style="width: 350px; height: 250px; transform: rotate(270deg)"/> 
 </p>
 
-* My research interests lie in graph mining
-
-# Recent News
+# About Me
+* I am a Data Scientist in the [Center for Information Technology Policty](https://citp.princeton.edu) at [Princeton University](https://www.princeton.edu/).
+* My interests lie in the area of data mining, machine learning, blockchain.
+* I received my PhD in Computer Science from RPI in 2015.
